@@ -1,6 +1,6 @@
-### hey, i'm b000m 👋
+### hey, i'm b000m 
 
-building side projects for fun 🛠️ coding with my best buddy **Claude** 🤖
+building side projects for fun 🛠️ coding w claude
 
 <img src="https://skillicons.dev/icons?i=rust,react,js,html,css,tailwind,vite,tauri&perline=8" alt="rust, react, js, html, css, tailwind, vite, tauri" />
 
