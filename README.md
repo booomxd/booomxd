@@ -1,6 +1,4 @@
-### hey, i'm b000m
-
-building projects for fun.
+### professional vibecoder
 
 <img src="https://skillicons.dev/icons?i=rust,react,js,py,html,css,tailwind,vite,tauri&perline=9" alt="rust, react, js, python, html, css, tailwind, vite, tauri" />
 
